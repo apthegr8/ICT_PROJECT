@@ -1,4 +1,4 @@
-# ICT_PROJECT
+# AI Email Classification ICT_PROJECT
 ICT AI training model assignment using pandas, numpy, os, tensorflow, scikit-learn and matplotlib
 
 The dataset is in csv format and it contains of 5172 randomly picked email files and their respective labels for spam or not-spam classification.
